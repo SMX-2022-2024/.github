@@ -49,8 +49,10 @@
 
 > <hr>
 
-> []()
->  
+> [A01U - Activitat 1 - Primera activitat amb git ](https://github.com/SMX-2022-2024/a01u-primera-activitat-amb-git)
+> 
+> [A02U - Activitat 2 - DHCP a Win 2020 Server](https://github.com/SMX-2022-2024/a02u-configuracio-servidor-dhcp-win2020.git)
+
 > <hr>
 
 </details>
