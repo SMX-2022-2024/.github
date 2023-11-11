@@ -2,7 +2,7 @@
 
 ## Repositori de l'Organització **```SMX-2022-2024```**
 
-[Navega per veure les hores del cicle](./docs/hores-cicle-de-smx.md)
+[Navega per veure les hores del cicle](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/hores-cicle-de-smx.md)
 
 
 <hr>
