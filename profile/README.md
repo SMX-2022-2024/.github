@@ -111,7 +111,7 @@ Aquest estudi substitueix el cicle Explotació de Sistemes Informàtics (LOGSE).
 
 |||
 |:----|:----|
-|*Ensenyament*: **Formació professional**|<td rowspan="7">![FPGB-FPGM-FPGS-PFI-InformaticaiComunicacions](./images/FPGB-FPGM-FPGS-PFI-InformaticaiComunicacions.png)</td>|
+|*Ensenyament*: **Formació professional**|<td rowspan="7">![FPGB-FPGM-FPGS-PFI-InformaticaiComunicacions](../profile/images/FPGB-FPGM-FPGS-PFI-InformaticaiComunicacions.png)</td>|
 |*Grau*: **Grau mitjà**|
 |*Titulació*: **Tècnic/a**|
 |*Sistema*: **LOE**|
@@ -126,7 +126,7 @@ Aquest estudi substitueix el cicle Explotació de Sistemes Informàtics (LOGSE).
 
 |R. Decret|Boe|Mòduls Professionals|Orientacions anteriors 2020/2021|Orientacions a partir 2020/2021|Decret Currículum|
 |----|----|----|----|----|----|
-|CFGM Sistemes<br>microinformàtics i xarxes<br>(CFPM IC10)|[REAL DECRETO 1691/2007, de 14 de diciembre ... Sistemas Microinformáticos y Redes ... (T_sist_microinformatics_i_xarxes.pdf)](./docs/T_sist_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png](./images/icona-document-pdf-verd.png)||[Orientacions als centres educatius ... (o_IC10_SMX_28-10-16.pdf)](./docs/o_IC10_SMX_28-10-16.pdf) ![icona-document-pdf-verd.png](./images/icona-document-pdf-verd.png)|[Orientacions als centres educatius  ... (o_IC10_Sistemes_microinformatics_i_xarxes.pdf)](./docs/o_IC10_Sistemes_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png](./images/icona-document-pdf-verd.png)|[DECRET 193/2013, de 9 de juliol ... (DOGC_T_sistemes_microinformatics_xarxes.pdf)](./docs/DOGC_T_sistemes_microinformatics_xarxes.pdf) ![icona-document-pdf-verd.png](./images/icona-document-pdf-verd.png)
+|CFGM Sistemes<br>microinformàtics i xarxes<br>(CFPM IC10)|[REAL DECRETO 1691/2007, de 14 de diciembre ... Sistemas Microinformáticos y Redes ... (T_sist_microinformatics_i_xarxes.pdf)]) (../profile/docs/T_sist_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png]](../profile/images/icona-document-pdf-verd.png)||[Orientacions als centres educatius ... (o_IC10_SMX_28-10-16.pdf)]) (../profile/docs/o_IC10_SMX_28-10-16.pdf) ![icona-document-pdf-verd.png]](../profile/images/icona-document-pdf-verd.png)|[Orientacions als centres educatius  ... (o_IC10_Sistemes_microinformatics_i_xarxes.pdf)]) (../profile/docs/o_IC10_Sistemes_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png]](../profile/images/icona-document-pdf-verd.png)|[DECRET 193/2013, de 9 de juliol ... (DOGC_T_sistemes_microinformatics_xarxes.pdf)]) (../profile/docs/DOGC_T_sistemes_microinformatics_xarxes.pdf) ![icona-document-pdf-verd.png](../profile/images/icona-document-pdf-verd.png)
 
 
 > * CFGM = Cicle Formatiu Grau Mitjà
