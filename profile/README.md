@@ -4,43 +4,35 @@
 
 ### [**Hores del cicle**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/hores-cicle-de-smx.md)
 
+<hr>
+<br>
+
+## **UF01**: Configuració de la xarxa (DNS i DHCP)
+
 [Activitats de **UF01: Configuració de la xarxa (DNS i DHCP)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/activitats-smx-mp07-uf01.md)
 
+<hr>
+
+<br>
 
 ### UF02: **Correu electrònic i transmissió d’arxius**
-<details><summary>Desplega per veure les activitats</summary>
+<br>
 
-> <hr>
 
-> []()
->  
-> <hr>
+<hr>
 
-</details>
-
+<br>
 
 ### UF03: **Servidor web i servidor intermediari o proxy**
-<details><summary>Desplega per veure les activitats</summary>
+<br>
 
-> <hr>
-
-> []()
->  
-> <hr>
-
-</details>
-
+<hr>
+<br>
 
 ### UF04: **Accés a sistemes remots**
-<details><summary>Desplega per veure les activitats</summary>
 
-> <hr>
-
-> []()
->  
-> <hr>
-
-</details>
+<hr>
+<br>
   
 
 <hr>
