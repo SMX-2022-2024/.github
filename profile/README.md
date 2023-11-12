@@ -32,8 +32,9 @@
 
 <hr>
 
+# Sistemes Microinformàtics i Xarxes
 
-[Estudis -> Sistemes Microinformàtics i Xarxes](https://triaeducativa.gencat.cat/ca/estudis/?sistemes-microinformatics-xarxes&p_id=123)
+> ### [Estudis -> Sistemes Microinformàtics i Xarxes (*```triaeducativa.gencat.cat```*)](https://triaeducativa.gencat.cat/ca/estudis/?sistemes-microinformatics-xarxes&p_id=123)
 
 Aquests estudis postobligatoris capaciten per instal·lar i mantenir serveis de xarxes fixes i mòbils, serveis d’Internet i sistemes informàtics i també per prestar suport als usuaris i usuàries.
 
