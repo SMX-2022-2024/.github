@@ -43,7 +43,7 @@ Tenen una durada de 2.000 hores distribuïdes en dos cursos acadèmics.
 Aquest estudi substitueix el cicle Explotació de Sistemes Informàtics (LOGSE).
 
 ||||
-|:----|:----|:----|
+|----:|:----|:----|
 |*Ensenyament*|**Formació professional**|<td rowspan="7">![FPGB-FPGM-FPGS-PFI-InformaticaiComunicacions](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/FPGB-FPGM-FPGS-PFI-InformaticaiComunicacions.png)</td>|
 |*Grau*|**Grau mitjà**|
 |*Titulació*|**Tècnic/a**|
