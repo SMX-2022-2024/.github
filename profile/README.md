@@ -42,16 +42,16 @@ Tenen una durada de 2.000 hores distribuïdes en dos cursos acadèmics.
 
 Aquest estudi substitueix el cicle Explotació de Sistemes Informàtics (LOGSE).
 
-|||
-|:----|:----|
-|*Ensenyament*: **Formació professional**|<td rowspan="7">![FPGB-FPGM-FPGS-PFI-InformaticaiComunicacions](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/FPGB-FPGM-FPGS-PFI-InformaticaiComunicacions.png)</td>|
-|*Grau*: **Grau mitjà**|
-|*Titulació*: **Tècnic/a**|
-|*Sistema*: **LOE**|
-|*Família professional*: **Informàtica i comunicacions**|
-|*Entorn*: **Tecnologies de la informació**|
-|*Codi*: **```CFPM IC10```**||
-|<td colspan="2" align="left">**Fitxa de l'estudi** [CFPM____IC10_CA (PDF)](https://www.gencat.cat/ensenyament/eac/pdf/CFPM____IC10_CA.pdf)</td>|
+||||
+|:----|:----|:----|
+|*Ensenyament*|**Formació professional**|<td rowspan="7">![FPGB-FPGM-FPGS-PFI-InformaticaiComunicacions](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/FPGB-FPGM-FPGS-PFI-InformaticaiComunicacions.png)</td>|
+|*Grau*|**Grau mitjà**|
+|*Titulació*|**Tècnic/a**|
+|*Sistema*|**LOE**|
+|*Família professional*|**Informàtica i comunicacions**|
+|*Entorn*|**Tecnologies de la informació**|
+|*Codi*|**```CFPM IC10```**||
+|<td colspan="3" align="left">**Fitxa de l'estudi** [CFPM____IC10_CA (PDF)](https://www.gencat.cat/ensenyament/eac/pdf/CFPM____IC10_CA.pdf)</td>|
 
 <br>
 <hr>
