@@ -107,12 +107,12 @@ Aquest estudi substitueix el cicle Explotació de Sistemes Informàtics (LOGSE).
 
 |Unitats formatives|Hores|
 |---|---:|
-|*UF01: **Aplicacions ofimàtiques i atenció a l’usuari**|```20``` h.|
-|*UF02: **El correu i l’agenda electrònica**|```20``` h.|
-|*UF03: **Processadors de text**|```30``` h.|
-|*UF04: **Fulls de càlcul**|```30``` h.|
-|*UF05: **Bases de dades**|35|
-|*UF06: **Imatge i vídeo – presentacions**|```30``` h.|
+|*UF01*: **Aplicacions ofimàtiques i atenció a l’usuari**|```20``` h.|
+|*UF02*: **El correu i l’agenda electrònica**|```20``` h.|
+|*UF03*: **Processadors de text**|```30``` h.|
+|*UF04*: **Fulls de càlcul**|```30``` h.|
+|*UF05*: **Bases de dades**|35|
+|*UF06*: **Imatge i vídeo – presentacions**|```30``` h.|
 
 ## MP04: Sistemes operatius en xarxa
 
