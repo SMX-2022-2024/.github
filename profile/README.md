@@ -66,11 +66,11 @@ Aquest estudi substitueix el cicle Explotació de Sistemes Informàtics (LOGSE).
 
 |*document*|*enllaç*|
 |----|----|
-|**R. Decret Boe**|[REAL DECRETO 1691/2007, de 14 de diciembre ...<br>(**```T_sist_microinformatics_i_xarxes.pdf```**)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/T_sist_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
+|**R. Decret Boe**|[REAL DECRETO 1691/2007, de 14 de diciembre ...<br>(```T_sist_microinformatics_i_xarxes.pdf```)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/T_sist_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
 |**Mòduls Professionals**||
 |**Orientacions anteriors ```2020```/```2021```**|[Orientacions als centres educatius ...<br>(```o_IC10_SMX_28-10-16.pdf```)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/o_IC10_SMX_28-10-16.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
-|**Orientacions a partir ```2020```/```2021```**|[Orientacions als centres educatius  ...<br>(o_IC10_Sistemes_microinformatics_i_xarxes.pdf)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/o_IC10_Sistemes_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
-|**Decret Currículum**|[DECRET 193/2013, de 9 de juliol ...<br>(DOGC_T_sistemes_microinformatics_xarxes.pdf)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/DOGC_T_sistemes_microinformatics_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
+|**Orientacions a partir ```2020```/```2021```**|[Orientacions als centres educatius  ...<br>(```o_IC10_Sistemes_microinformatics_i_xarxes.pdf```)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/o_IC10_Sistemes_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
+|**Decret Currículum**|[DECRET 193/2013, de 9 de juliol ...<br>(```DOGC_T_sistemes_microinformatics_xarxes.pdf```)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/DOGC_T_sistemes_microinformatics_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
 
 
 
