@@ -2,7 +2,7 @@
 
 ## Repositori de l'Organització **```SMX-2022-2024```**
 
-[Navega per veure les hores del cicle](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/hores-cicle-de-smx.md)
+### [**Hores del cicle**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/hores-cicle-de-smx.md)
 
 [Activitats de **UF01: Configuració de la xarxa (DNS i DHCP)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/activitats-smx-mp07-uf01.md)
 
