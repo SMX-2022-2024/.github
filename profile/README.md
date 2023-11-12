@@ -51,7 +51,7 @@ Aquest estudi substitueix el cicle Explotació de Sistemes Informàtics (LOGSE).
 |*Família professional*|**Informàtica i comunicacions**|
 |*Entorn*|**Tecnologies de la informació**|
 |*Codi*|**```CFPM IC10```**||
-|<td colspan="3" align="left">**Fitxa de l'estudi** [CFPM____IC10_CA (PDF)](https://www.gencat.cat/ensenyament/eac/pdf/CFPM____IC10_CA.pdf)</td>|
+|<td colspan="3" align="left">**Fitxa de l'estudi** [CFPM____IC10_CA (PDF)](https://www.gencat.cat/ensenyament/eac/pdf/CFPM____IC10_CA.pdf)</td>|||
 
 <br>
 <hr>
