@@ -17,6 +17,8 @@
 > ### [**Teoria i configuració d'un servidor DNS a Win 2020 Server** *MP07 UF01 A03U - Teoria 3*](https://github.com/SMX-2022-2024/a03u-teoria-i-configuracio-servidor-dns-win2020.git)
 >
 > ### [**Creació d'una nova zona de DNS en un servidor Windows 2020 Server** *MP07 UF01 A04U - Activitat 4*](https://github.com/SMX-2022-2024/a04u-configuracio-servidor-dns-win2020.git)
+>
+> ### [**Configuració de la xarxa classe per que tots els servidors es vegin entre ells** *MP07 UF01 A05U - Activitat 5*](https://github.com/SMX-2022-2024/a05u-configuracio-servidors-dns-classe.git)
 
 <hr>
 
@@ -71,8 +73,6 @@ Aquest estudi substitueix el cicle Explotació de Sistemes Informàtics (LOGSE).
 |**Orientacions anteriors ```2020```/```2021```**|[Orientacions als centres educatius ...<br>(```o_IC10_SMX_28-10-16.pdf```)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/o_IC10_SMX_28-10-16.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
 |**Orientacions a partir ```2020```/```2021```**|[Orientacions als centres educatius  ...<br>(```o_IC10_Sistemes_microinformatics_i_xarxes.pdf```)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/o_IC10_Sistemes_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
 |**Decret Currículum**|[DECRET 193/2013, de 9 de juliol ...<br>(```DOGC_T_sistemes_microinformatics_xarxes.pdf```)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/DOGC_T_sistemes_microinformatics_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
-
-
 
 
 > * CFGM = Cicle Formatiu Grau Mitjà
