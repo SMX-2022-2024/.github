@@ -2,7 +2,7 @@
 
 ## Repositori de l'Organització **```SMX-2022-2024```**
 
-### [**Hores del cicle**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/hores-cicle-de-smx.md)
+### [**Sistemes Microinformàtics i Xarxes**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/sistemes-microinformatics-i-xarxes.md)
 
 ### [**Introducció**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/SMX_MP07_0001_UF01_Pres0001_Introduccio.pdf)
 
