@@ -6,6 +6,8 @@
 
 ### [**Introducció**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/SMX_MP07_0001_UF01_Pres0001_Introduccio.pdf)
 
+### [**Teoria DNS**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/SMX_MP07_0003_UF01_Pres0004_DNS.pdf)
+
 <hr>
 
 ## *UF01*: Configuració de la xarxa (DNS i DHCP)
