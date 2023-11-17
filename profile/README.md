@@ -6,15 +6,13 @@
 
 ## Presentació
 
-### [**Introducció**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/SMX_MP07_0001_UF01_Pres0001_Introduccio.pdf)
+### [**Introducció**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/SMX_MP07_0001_UF01_Pres0001_Introduccio.pdf)
 
-### [**Teoria - DNS - Domain Name System**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/SMX_MP07_0003_UF01_Pres0004_DNS.pdf)
+### [**Teoria - DNS - Domain Name System**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/SMX_MP07_0003_UF01_Pres0004_DNS.pdf)
 
 <hr>
 
 ## *UF01*: Configuració de la xarxa (DNS i DHCP)
-
-<!-- [Activitats de **UF01: Configuració de la xarxa (DNS i DHCP)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/activitats-smx-mp07-uf01.md) -->
 
 > ### [**Primera activitat amb git** *MP07 UF01 A01U - Activitat 1*](https://github.com/SMX-2022-2024/a01u-primera-activitat-amb-git)
 >

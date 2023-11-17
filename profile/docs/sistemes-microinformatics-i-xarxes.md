@@ -2,7 +2,6 @@
 
 ## [Hores del cicle](#hores-del-cicle-1)
 
-
 > ### [Estudis -> Sistemes Microinformàtics i Xarxes (*```triaeducativa.gencat.cat```*)](https://triaeducativa.gencat.cat/ca/estudis/?sistemes-microinformatics-xarxes&p_id=123)
 
 <a href="https://triaeducativa.gencat.cat/ca/estudis/?sistemes-microinformatics-xarxes&p_id=123" target="_blank">Estudis -> Sistemes Microinformàtics i Xarxes (triaeducativa.gencat.cat)</a>![icona-24-blanc-acceder.svg](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-24-blanc-acceder.svg)
