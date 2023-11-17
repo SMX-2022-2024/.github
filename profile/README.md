@@ -42,7 +42,7 @@
 
 > ### [Estudis -> Sistemes Microinformàtics i Xarxes (*```triaeducativa.gencat.cat```*)](https://triaeducativa.gencat.cat/ca/estudis/?sistemes-microinformatics-xarxes&p_id=123)
 
-<a href="https://triaeducativa.gencat.cat/ca/estudis/?sistemes-microinformatics-xarxes&p_id=123" target="_blank">Estudis -> Sistemes Microinformàtics i Xarxes (*```triaeducativa.gencat.cat```*)</a>
+<a href="https://triaeducativa.gencat.cat/ca/estudis/?sistemes-microinformatics-xarxes&p_id=123" target="_blank">Estudis -> Sistemes Microinformàtics i Xarxes (*```triaeducativa.gencat.cat```*)![icona-24-blanc-acceder.svg](./images/icona-24-blanc-acceder.svg)</a>
 
 Aquests estudis postobligatoris capaciten per instal·lar i mantenir serveis de xarxes fixes i mòbils, serveis d’Internet i sistemes informàtics i també per prestar suport als usuaris i usuàries.
 
