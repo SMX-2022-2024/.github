@@ -1,4 +1,52 @@
-# Cicle de SMX
+# Sistemes Microinformàtics i Xarxes
+
+## [Hores del cicle](#hores-del-cicle-1)
+
+
+> ### [Estudis -> Sistemes Microinformàtics i Xarxes (*```triaeducativa.gencat.cat```*)](https://triaeducativa.gencat.cat/ca/estudis/?sistemes-microinformatics-xarxes&p_id=123)
+
+<a href="https://triaeducativa.gencat.cat/ca/estudis/?sistemes-microinformatics-xarxes&p_id=123" target="_blank">Estudis -> Sistemes Microinformàtics i Xarxes (triaeducativa.gencat.cat)</a>![icona-24-blanc-acceder.svg](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-24-blanc-acceder.svg)
+
+Aquests estudis postobligatoris capaciten per instal·lar i mantenir serveis de xarxes fixes i mòbils, serveis d’Internet i sistemes informàtics i també per prestar suport als usuaris i usuàries.
+
+Tenen una durada de 2.000 hores distribuïdes en dos cursos acadèmics.
+
+Aquest estudi substitueix el cicle Explotació de Sistemes Informàtics (LOGSE).
+
+||||
+|----:|:----|:----|
+|*Ensenyament*|**Formació professional**|<td rowspan="7">![FPGB-FPGM-FPGS-PFI-InformaticaiComunicacions](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/FPGB-FPGM-FPGS-PFI-InformaticaiComunicacions.png)</td>|
+|*Grau*|**Grau mitjà**|
+|*Titulació*|**Tècnic/a**|
+|*Sistema*|**LOE**|
+|*Família professional*|**Informàtica i comunicacions**|
+|*Entorn*|**Tecnologies de la informació**|
+|*Codi*|**```CFPM IC10```**||
+|<td colspan="3" align="left">**Fitxa de l'estudi** [CFPM____IC10_CA (PDF)](https://www.gencat.cat/ensenyament/eac/pdf/CFPM____IC10_CA.pdf)</td>|||
+
+<br>
+<hr>
+<br>
+
+<!-- ||R. Decret Boe|Mòduls Professionals|Orientacions anteriors 2020/2021|Orientacions a partir 2020/2021|Decret Currículum|
+|----|----|----|----|----|----|
+|CFGM Sistemes<br>microinformàtics i xarxes<br>(CFPM IC10)|[REAL DECRETO 1691/2007, de 14 de diciembre ... Sistemas Microinformáticos y Redes ... (T_sist_microinformatics_i_xarxes.pdf)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/T_sist_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)||[Orientacions als centres educatius ... (o_IC10_SMX_28-10-16.pdf)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/o_IC10_SMX_28-10-16.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|[Orientacions als centres educatius  ... (o_IC10_Sistemes_microinformatics_i_xarxes.pdf)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/o_IC10_Sistemes_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|[DECRET 193/2013, de 9 de juliol ... (DOGC_T_sistemes_microinformatics_xarxes.pdf)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/DOGC_T_sistemes_microinformatics_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png) -->
+
+
+**CFGM Sistemes microinformàtics i xarxes (CFPM IC10)**
+
+|*document*|*enllaç*|
+|----|----|
+|**R. Decret Boe**|[REAL DECRETO 1691/2007, de 14 de diciembre ...<br>(```T_sist_microinformatics_i_xarxes.pdf```)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/T_sist_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
+|**Mòduls Professionals**||
+|**Orientacions anteriors ```2020```/```2021```**|[Orientacions als centres educatius ...<br>(```o_IC10_SMX_28-10-16.pdf```)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/o_IC10_SMX_28-10-16.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
+|**Orientacions a partir ```2020```/```2021```**|[Orientacions als centres educatius  ...<br>(```o_IC10_Sistemes_microinformatics_i_xarxes.pdf```)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/o_IC10_Sistemes_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
+|**Decret Currículum**|[DECRET 193/2013, de 9 de juliol ...<br>(```DOGC_T_sistemes_microinformatics_xarxes.pdf```)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/DOGC_T_sistemes_microinformatics_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
+
+
+> * CFGM = Cicle Formatiu Grau Mitjà
+
+# Hores del cicle
 
 |**Curs**|**Hores**|
 |----|----:|
@@ -32,7 +80,7 @@
 
 <hr>
 
-## Hores del cicle
+## Hores del cicle - Unitats formatives
 
 |Mòduls Professionals|Hores totals|
 |----|----:|
@@ -163,49 +211,3 @@
 |**Formació en centres de treball**|```383``` h.|
 
 **Total: 2000 h**
-
-# Sistemes Microinformàtics i Xarxes
-
-> ### [Estudis -> Sistemes Microinformàtics i Xarxes (*```triaeducativa.gencat.cat```*)](https://triaeducativa.gencat.cat/ca/estudis/?sistemes-microinformatics-xarxes&p_id=123)
-
-<a href="https://triaeducativa.gencat.cat/ca/estudis/?sistemes-microinformatics-xarxes&p_id=123" target="_blank">Estudis -> Sistemes Microinformàtics i Xarxes (triaeducativa.gencat.cat)</a>![icona-24-blanc-acceder.svg](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-24-blanc-acceder.svg)
-
-Aquests estudis postobligatoris capaciten per instal·lar i mantenir serveis de xarxes fixes i mòbils, serveis d’Internet i sistemes informàtics i també per prestar suport als usuaris i usuàries.
-
-Tenen una durada de 2.000 hores distribuïdes en dos cursos acadèmics.
-
-Aquest estudi substitueix el cicle Explotació de Sistemes Informàtics (LOGSE).
-
-||||
-|----:|:----|:----|
-|*Ensenyament*|**Formació professional**|<td rowspan="7">![FPGB-FPGM-FPGS-PFI-InformaticaiComunicacions](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/FPGB-FPGM-FPGS-PFI-InformaticaiComunicacions.png)</td>|
-|*Grau*|**Grau mitjà**|
-|*Titulació*|**Tècnic/a**|
-|*Sistema*|**LOE**|
-|*Família professional*|**Informàtica i comunicacions**|
-|*Entorn*|**Tecnologies de la informació**|
-|*Codi*|**```CFPM IC10```**||
-|<td colspan="3" align="left">**Fitxa de l'estudi** [CFPM____IC10_CA (PDF)](https://www.gencat.cat/ensenyament/eac/pdf/CFPM____IC10_CA.pdf)</td>|||
-
-<br>
-<hr>
-<br>
-
-<!-- ||R. Decret Boe|Mòduls Professionals|Orientacions anteriors 2020/2021|Orientacions a partir 2020/2021|Decret Currículum|
-|----|----|----|----|----|----|
-|CFGM Sistemes<br>microinformàtics i xarxes<br>(CFPM IC10)|[REAL DECRETO 1691/2007, de 14 de diciembre ... Sistemas Microinformáticos y Redes ... (T_sist_microinformatics_i_xarxes.pdf)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/T_sist_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)||[Orientacions als centres educatius ... (o_IC10_SMX_28-10-16.pdf)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/o_IC10_SMX_28-10-16.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|[Orientacions als centres educatius  ... (o_IC10_Sistemes_microinformatics_i_xarxes.pdf)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/o_IC10_Sistemes_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|[DECRET 193/2013, de 9 de juliol ... (DOGC_T_sistemes_microinformatics_xarxes.pdf)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/DOGC_T_sistemes_microinformatics_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png) -->
-
-
-**CFGM Sistemes microinformàtics i xarxes (CFPM IC10)**
-
-|*document*|*enllaç*|
-|----|----|
-|**R. Decret Boe**|[REAL DECRETO 1691/2007, de 14 de diciembre ...<br>(```T_sist_microinformatics_i_xarxes.pdf```)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/T_sist_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
-|**Mòduls Professionals**||
-|**Orientacions anteriors ```2020```/```2021```**|[Orientacions als centres educatius ...<br>(```o_IC10_SMX_28-10-16.pdf```)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/o_IC10_SMX_28-10-16.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
-|**Orientacions a partir ```2020```/```2021```**|[Orientacions als centres educatius  ...<br>(```o_IC10_Sistemes_microinformatics_i_xarxes.pdf```)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/o_IC10_Sistemes_microinformatics_i_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
-|**Decret Currículum**|[DECRET 193/2013, de 9 de juliol ...<br>(```DOGC_T_sistemes_microinformatics_xarxes.pdf```)](https://github.com/SMX-2022-2024/.github/blob/main/profile//docs/DOGC_T_sistemes_microinformatics_xarxes.pdf) ![icona-document-pdf-verd.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-document-pdf-verd.png)|
-
-
-> * CFGM = Cicle Formatiu Grau Mitjà
-
