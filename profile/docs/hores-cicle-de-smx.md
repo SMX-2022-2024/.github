@@ -11,28 +11,26 @@
 |**Mòduls Professionals**|**Hores**|
 |----|----:|
 |[*MP01*: **Muntatge i manteniment d'equips**](#mp01-muntatge-i-manteniment-dequips)|```132``` h.|
-|*MP02*: **Sistemes operatius monolloc**|```99``` h.|
-|*MP03*: **Aplicacions ofimàtiques**|```165``` h.|
-|*MP04*: **Sistemes operatius en xarxa**|```132``` h.|
-|*MP05*: **Xarxes locals**|```198``` h.|
-|*MP06*: **Seguretat informàtica**|```99``` h.|
+|[*MP02*: **Sistemes operatius monolloc**](#mp02-sistemes-operatius-monolloc)|```99``` h.|
+|[*MP03*: **Aplicacions ofimàtiques**](#mp03-aplicacions-ofimàtiques)|```165``` h.|
+|[*MP04*: **Sistemes operatius en xarxa**](#mp04-sistemes-operatius-en-xarxa)|```132``` h.|
+|[*MP05*: **Xarxes locals**](#mp05-xarxes-locals)|```198``` h.|
+|[*MP06*: **Seguretat informàtica**](#mp06-seguretat-informàtica)|```99``` h.|
 |**Total primer curs**|**```825``` h.**|
 
 ## Curs 2n de SMX
 |Mòduls professionals|Hores|
 |----|----:|
-|*MP07*: **Serveis de xarxa**|```65``` h.|
-|*MP08*: **Aplicacions web**|```99``` h.|
-|*MP09*: **Formació i orientació laboral**|```66``` h.|
-|*MP10*: **Empresa i iniciativa emprenedora**|```66``` h.|
-|*MP11*: **Anglès tècnic**|```99``` h.|
-|*MP12*: **Síntesi**|```297``` h.|
-|*MP13*: **Formació en centres de treball**|```383``` h.|
+|[*MP07*: **Serveis de xarxa**](#mp07-serveis-de-xarxa)|```65``` h.|
+|[*MP08*: **Aplicacions web**](#mp08-aplicacions-web)|```99``` h.|
+|[*MP09*: **Formació i orientació laboral**](#mp09-formació-i-orientació-laboral)|```66``` h.|
+|[*MP10*: **Empresa i iniciativa emprenedora**](#mp10-empresa-i-iniciativa-emprenedora)|```66``` h.|
+|[*MP11*: **Anglès tècnic**](#mp11-anglès-tècnic)|```99``` h.|
+|[*MP12*: **Síntesi**](#mp12-síntesi)|```297``` h.|
+|[*MP13*: **Formació en centres de treball**](#mp13-formació-en-centres-de-treball)|```383``` h.|
 |**Total segon curs**|**```1175``` h.**|
 
-
-
-
+<hr>
 
 ## Hores del cicle
 
@@ -112,7 +110,7 @@
 |*UF04*: **Seguretat activa**|```16``` h.|
 |*UF05*: **Tallafocs i monitoratge de xarxes**|```38``` h.|
 
-## MP7: Serveis de xarxa
+## MP07: Serveis de xarxa
 
 |Unitats formatives|Hores|
 |---|---:|
