@@ -4,6 +4,8 @@
 
 ### [**Hores del cicle**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/hores-cicle-de-smx.md)
 
+### [**Introducció**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/SMX_MP07_0001_UF01_Pres0001_Introduccio.pdf)
+
 <hr>
 
 ## *UF01*: Configuració de la xarxa (DNS i DHCP)
