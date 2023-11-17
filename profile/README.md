@@ -1,8 +1,10 @@
-# Sistemes microinformàtics i xarxes
+# Sistemes microinformàtics i xarxes - Repositori per la promoció **```SMX-2022-2024```**
 
-## Repositori de l'Organització **```SMX-2022-2024```**
+## Informació
 
 ### [**Sistemes Microinformàtics i Xarxes**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/sistemes-microinformatics-i-xarxes.md)
+
+## Presentació
 
 ### [**Introducció**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/SMX_MP07_0001_UF01_Pres0001_Introduccio.pdf)
 
@@ -35,7 +37,3 @@
 <hr>
 
 ## *UF04*: **Accés a sistemes remots**
-
-<hr>
-
-# Sistemes Microinformàtics i Xarxes
