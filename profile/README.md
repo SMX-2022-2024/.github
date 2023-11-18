@@ -4,9 +4,12 @@
 
 ## Presentació sobre el *mòdul professional 7*: **Serveis de xarxa**
 
-### [**Introducció (*presentació en format pdf*)** ](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/SMX_MP07_0001_UF01_Pres0001_Introduccio.pdf)
+### [**Introducció (*presentació en format pdf*)** ](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0001-uf01-pres0001-introduccio.pdf)
 
-### [**Teoria - DNS - Domain Name System (*presentació en format pdf*)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/SMX_MP07_0003_UF01_Pres0004_DNS.pdf)
+### [**Teoria - DHCP (Dynamic Host Configuration Protocol) (*presentació en format pdf*)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0002-uf01-pres0002-teoria-dhcp.pdf)
+
+
+### [**Teoria - DNS - Domain Name System (*presentació en format pdf*)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0003-uf01-pres0003-teoria-dns.pdf)
 
 <hr>
 
