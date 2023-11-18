@@ -12,7 +12,7 @@
 
 #### [Definició d'adreçament amb classe](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/man-dns-03-definicio-d-adrecament-amb-classe.md)
 
-
+#### [Fer consultes a un **Servidor DNS**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/man-dns-04-consultes-a-un-servidor-dns.md)
 
 <hr>
 
