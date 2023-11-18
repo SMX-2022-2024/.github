@@ -6,13 +6,20 @@
 
 ### [**Introducció (*presentació en format pdf*)** ](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0001-uf01-pres0001-introduccio.pdf)
 
-### [**Teoria - DHCP (Dynamic Host Configuration Protocol) (*presentació en format pdf*)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0002-uf01-pres0002-teoria-dhcp.pdf)
+## Teoria
 
-### [**Teoria - DNS - Domain Name System (*presentació en format pdf*)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0003-uf01-pres0003-teoria-dns.pdf)
+### [**Teoria de DHCP (Dynamic Host Configuration Protocol) (*presentació en format pdf*)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0002-uf01-pres0002-teoria-dhcp.pdf)
 
-#### [Definició d'adreçament amb classe](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/man-dns-03-definicio-d-adrecament-amb-classe.md)
+### [**Teoria de DNS (Domain Name System) (*presentació en format pdf*)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0003-uf01-pres0003-teoria-dns.pdf)
 
-#### [Fer consultes a un **Servidor DNS**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/man-dns-04-consultes-a-un-servidor-dns.md)
+> ## Altres repositoris
+>
+> ### [Definició d'adreçament amb classe](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/man-dns-03-definicio-d-adrecament-amb-classe.md)
+> 
+> ### [Fer consultes a un **Servidor DNS**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/man-dns-04-consultes-a-un-servidor-dns.md)
+>
+><br>
+>
 
 <hr>
 
