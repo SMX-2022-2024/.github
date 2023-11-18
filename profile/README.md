@@ -31,7 +31,7 @@
 >
 > ### [**Configuració d'un servidor DNS a Win 2020 Server** *MP07 UF01 A03U - Teoria 3*](https://github.com/SMX-2022-2024/a03u-teoria-i-configuracio-servidor-dns-win2020.git)
 >
-> ### [**Creació d'una nova zona de DNS en un servidor Windows 2020 Server** *MP07 UF01 A04U - Activitat 4*](https://github.com/SMX-2022-2024/a04u-configuracio-servidor-dns-win2020.git)
+> ### [**Creació d'una nova zona de DNS a Win 2020 Server** *MP07 UF01 A04U - Activitat 4*](https://github.com/SMX-2022-2024/a04u-configuracio-servidor-dns-win2020.git)
 >
 > ### [**Configuració de la xarxa classe per que tots els servidors es vegin entre ells** *MP07 UF01 A05U - Activitat 5*](https://github.com/SMX-2022-2024/a05u-configuracio-servidors-dns-classe.git)
 
