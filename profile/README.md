@@ -2,13 +2,13 @@
 
 ## Informació
 
-### [**Sistemes Microinformàtics i Xarxes**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/sistemes-microinformatics-i-xarxes.md)
+### [**Sistemes Microinformàtics i Xarxes (*repo*)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/sistemes-microinformatics-i-xarxes.md)
 
 ## Presentació
 
-### [**Introducció**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/SMX_MP07_0001_UF01_Pres0001_Introduccio.pdf)
+### [**Introducció (*presentació en format pdf*)** ](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/SMX_MP07_0001_UF01_Pres0001_Introduccio.pdf)
 
-### [**Teoria - DNS - Domain Name System (*presentació*)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/SMX_MP07_0003_UF01_Pres0004_DNS.pdf)
+### [**Teoria - DNS - Domain Name System (*presentació en format pdf*)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/SMX_MP07_0003_UF01_Pres0004_DNS.pdf)
 
 <hr>
 
