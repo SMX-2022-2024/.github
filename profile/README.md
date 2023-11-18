@@ -1,10 +1,8 @@
 # Sistemes microinformàtics i xarxes - Repositori per la promoció **```SMX-2022-2024```**
 
-## Informació
+## [Informació sobre el cicle **Sistemes Microinformàtics i Xarxes (*repo*)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/sistemes-microinformatics-i-xarxes.md)
 
-### [**Sistemes Microinformàtics i Xarxes (*repo*)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/docs/sistemes-microinformatics-i-xarxes.md)
-
-## Presentació
+## Presentació sobre el *mòdul professional 7*: **Serveis de xarxa**
 
 ### [**Introducció (*presentació en format pdf*)** ](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/SMX_MP07_0001_UF01_Pres0001_Introduccio.pdf)
 
