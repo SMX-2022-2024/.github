@@ -101,7 +101,7 @@ Veiem que la resposta a la pregunta de quina adreça ip respon al nom **```gineb
 No ens ho ha dit, pero aquesta consulta ha estat de **tipus ```A```**. 
 
 > [!NOTE]
->Per defecte, si no es diu el contrari, les ***consultes DNS*** sempre son a registres de **tipus ```A```**
+> ## Per defecte, si no es diu el contrari, les ***consultes DNS*** sempre son a registres de **tipus ```A```**
 
 
 Important el tipus de resposta que retorna el servidor: ***Non-authoritative answer*** (**Resposta no autoritzada**), si fos autoritzada es podria arribar a "***robar***" totes les adreces que conté el **DNS**, per després utilitzar-ho amb finalitats diguem ***no massa clares***.
