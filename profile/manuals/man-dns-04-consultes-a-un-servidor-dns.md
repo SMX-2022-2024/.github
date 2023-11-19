@@ -79,10 +79,10 @@ La primera consulta que farem es tracta d'una consulta a un **registre de tipus 
 >
 > o bé
 > 
-> [Configuració d'un servidor DNS a Win 2020 Server TEORIA - **Registre de tipus ```CNAME```** ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a03u-teoria-i-configuracio-servidor-dns-win2020#creaci%C3%B3-dels-registres-de-tipus-cname)
+> [Configuració d'un servidor DNS a Win 2020 Server TEORIA - **Registre de tipus ```A```** ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a03u-teoria-i-configuracio-servidor-dns-win2020#creaci%C3%B3-dels-registres-de-tipus-a)
 
 
-**1.** Consulta **```ginebro.cat```**
+**Consulta** al **registre DNS** **```ginebro.cat```**
 
 Volem coneixer quina és la resposta que ens retorna el servidor **```dns.google (8.8.8.8)```** a la pregunta sobre el servidor **```ginebro.cat```**.
 
@@ -98,7 +98,10 @@ Address: 217.149.11.212
 
 Veiem que la resposta a la pregunta de quina adreça ip respon al nom **```ginebro.cat```** és **```217.149.11.212```**
 
-No ens ho ha dit, pero aquesta consulta ha estat de **tipus ```A```**. Per defecte, si no es diu el contrari, les ***consultes DNS*** sempre son a registres de **tipus ```A```**
+No ens ho ha dit, pero aquesta consulta ha estat de **tipus ```A```**. 
+
+> [!NOTE]
+>Per defecte, si no es diu el contrari, les ***consultes DNS*** sempre son a registres de **tipus ```A```**
 
 
 Important el tipus de resposta que retorna el servidor: ***Non-authoritative answer*** (**Resposta no autoritzada**), si fos autoritzada es podria arribar a "***robar***" totes les adreces que conté el **DNS**, per després utilitzar-ho amb finalitats diguem ***no massa clares***.
@@ -135,14 +138,7 @@ ginebro.cat
 ```
 
 
-> [!IMPORTANT]
->
-> **3.** Consulta de **tipus ```mx```** a **```ginebro.cat```**
-> 
-> #### **2.3.** **Registres de tipus** **```MX```**
-> 
-> Els **serveis especials**, alguns **serveis especials**, com el cas del **servei de correu electrònic** (**```registre MX```**) que relaciona un domini amb el **```HOST```** on s’ha d’**entregar el correu**.
-> Per més informació pot repassar la teoria a [**Teoria de DNS (Domain Name System) ![icona-pdf-30x30.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-pdf-30x30.png)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0003-uf01-pres0003-teoria-dns.pdf)
+
 
 
 Per esbrinar quin és el servidor de correu electrònic d’un domini:
@@ -183,6 +179,8 @@ El resultat que retorna va relacionat per la **preferència ```MX```** i el serv
 >
 > **Registre de tipus ```CNAME```**
 > 
+> [Configuració d'un servidor DNS a Win 2020 Server TEORIA - **Registre de tipus ```CNAME```** ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a03u-teoria-i-configuracio-servidor-dns-win2020#creaci%C3%B3-dels-registres-de-tipus-cname)
+
 
 Els **```SOBRENOMS```** o **àlies**, serien els **registres** **```CNAME```** que relacionen un **sobrenom** a un **nom**
 
