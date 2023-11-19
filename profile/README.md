@@ -10,7 +10,7 @@
 
 ### [**Teoria de DHCP (Dynamic Host Configuration Protocol) ![icona-pdf-30x30.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-pdf-30x30.png)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0002-uf01-pres0002-teoria-dhcp.pdf)
 
-### [**Teoria de DNS (Domain Name System) (![icona-pdf-30x30.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-pdf-30x30.png))**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0003-uf01-pres0003-teoria-dns.pdf)
+### [**Teoria de DNS (Domain Name System) ![icona-pdf-30x30.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-pdf-30x30.png)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0003-uf01-pres0003-teoria-dns.pdf)
 
 > ## Altres repositoris
 >
