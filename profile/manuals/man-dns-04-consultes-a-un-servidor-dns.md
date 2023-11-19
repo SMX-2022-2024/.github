@@ -74,7 +74,7 @@ La primera consulta que farem es tracta d'una consulta a un **registre de tipus 
 > **Registre de tipus ```A```**
 > 
 > Els **```HOSTS```** (**registres de tipus** **```A```**) que relacionen un nom amb una **adreça IP**.
-
+> Per més informació pot repassar la teoria a [**Teoria de DNS (Domain Name System) ![icona-pdf-30x30.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-pdf-30x30.png)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0003-uf01-pres0003-teoria-dns.pdf)
 
 
 **1.** Consulta **```ginebro.cat```**
@@ -129,7 +129,16 @@ ginebro.cat
 >
 ```
 
-**3.** Consulta de **tipus ```mx```** a **```ginebro.cat```**
+
+> [!IMPORTANT]
+>
+> **3.** Consulta de **tipus ```mx```** a **```ginebro.cat```**
+> 
+> #### **2.3.** **Registres de tipus** **```MX```**
+> 
+> Els **serveis especials**, alguns **serveis especials**, com el cas del **servei de correu electrònic** (**```registre MX```**) que relaciona un domini amb el **```HOST```** on s’ha d’**entregar el correu**.
+> Per més informació pot repassar la teoria a [**Teoria de DNS (Domain Name System) ![icona-pdf-30x30.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-pdf-30x30.png)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0003-uf01-pres0003-teoria-dns.pdf)
+
 
 Per esbrinar quin és el servidor de correu electrònic d’un domini:
 
@@ -162,6 +171,16 @@ ginebro.cat	    MX preference = 30 aspmx4.googlemail.com
 El resultat que retorna va relacionat per la **preferència ```MX```** i el servidor on enviar el correu.
 
 > La **preferència ```MX```** indica a quin servidor s’ha de preguntar primer, en cas que no respongui, el segon, tercer etc. Com més petit és el número, més preferència té **```10```**, **```20```**, **```30```**, ...
+
+#### **2.2.** **Registres de tipus** **```CNAME```**
+
+> [!IMPORTANT]
+>
+> **Registre de tipus ```CNAME```**
+> 
+
+Els **```SOBRENOMS```** o **àlies**, serien els **registres** **```CNAME```** que relacionen un **sobrenom** a un **nom**
+
 
 **4.** Consulta de **tipus ```CNAME```** a **```mail.ginebro.cat```**
 
