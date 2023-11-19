@@ -34,7 +34,7 @@
 > ### [***(A04U)* Creació d'una nova zona de DNS a Win 2020 Server** *MP07 UF01 A04U - Activitat 4* ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a04u-configuracio-servidor-dns-win2020.git)
 >
 > ### [***(A05U)* Configuració per que tots els servidors es vegin entre ells** *MP07 UF01 A05U - Activitat 5* ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a05u-configuracio-servidors-dns-classe.git)
-
+> 
 <hr>
 
 ## *UF02*: **Correu electrònic i transmissió d’arxius**
