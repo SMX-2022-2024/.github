@@ -24,12 +24,6 @@
 
 <hr>
 
-<div class="markdown-alert markdown-alert-important" dir="auto">
-
-## *UF01*: Configuració de la xarxa (DNS i DHCP)
-
-</div>
-
 ## *UF01*: Configuració de la xarxa (DNS i DHCP)
 
 > ### [***(A01U)* Primera activitat amb git** <font size="12">*MP07 UF01 A01U - Activitat 1*</font> ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a01u-primera-activitat-amb-git)
