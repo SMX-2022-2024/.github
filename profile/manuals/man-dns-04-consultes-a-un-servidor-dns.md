@@ -74,7 +74,12 @@ La primera consulta que farem es tracta d'una consulta a un **registre de tipus 
 > **Registre de tipus ```A```**
 > 
 > Els **```HOSTS```** (**registres de tipus** **```A```**) que relacionen un nom amb una **adreça IP**.
+>
 > Per més informació pot repassar la teoria a [**Teoria de DNS (Domain Name System) ![icona-pdf-30x30.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-pdf-30x30.png)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0003-uf01-pres0003-teoria-dns.pdf)
+>
+> o bé
+> 
+> [Configuració d'un servidor DNS a Win 2020 Server TEORIA - **Registre de tipus ```CNAME```** ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a03u-teoria-i-configuracio-servidor-dns-win2020#creaci%C3%B3-dels-registres-de-tipus-cname)
 
 
 **1.** Consulta **```ginebro.cat```**
