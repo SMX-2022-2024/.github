@@ -100,7 +100,7 @@ Veiem que la resposta a la pregunta de quina adreça ip respon al nom **```gineb
 
 No ens ho ha dit, pero aquesta consulta ha estat de **tipus ```A```**. 
 
-> [!NOTE]
+> [!WARNING]
 > ## Per defecte, si no es diu el contrari, les ***consultes DNS*** sempre son a registres de **tipus ```A```**
 
 
