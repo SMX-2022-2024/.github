@@ -4,15 +4,31 @@ A continuació s'estudia una eina per poder conèixer com obtenir la resposta a 
 
 El propi sistema ja s’encarrega de fer les consultes automàticament al **DNS** quan ho necessita, però també és una eina que es pot utilitzar manualment, per extreure informació molt valuosa d’un domini. Motiu pel que hem d’assegurar una bona higiene del mateix.
 
-L’eina, d’ús més habitual, per fer les consultes a un **servei de DNS** és el **```nslookup```**. És una eina de la consola de sistema, per executar-la, cal anar a la consola i escriure:
+L’eina, d’ús més habitual, per fer les consultes a un **servei de DNS** és el **```nslookup```**. És una eina de **la consola de sistema**, per executar-la, cal anar a la consola
 
-```nslookup```
+<kbd>WIN</kbd> + <kbd>R</kbd>
 
-![executar-cmd.png](../images/executar-cmd.png)
+que ens obrirà la finestra de **```Run```**  i escriure ```cmd```, per què ens obri la **consola de sistema**.
 
-I des de la línia de comandes executem la comanda **```nslookup```**, i ens obrirà l'entorn d'**```nslookup```** per poder realitzar les consultes que vulguem.
+![executar-cmd.png](../images/nslookup-dns-01-cmd.png)
 
-![inici-nslookup.png](../images/inici-nslookup.png)
+Un cop ja tinguem la **consola de sistema** oberta, hem d'esbrinar quin és el servidor dns que tenim configurat. Per fer-ho cal consultar la configuració de la nostra **interfície de xarxa**. Escriurem **```ipconfig /all```**, per què ens mostri la configuració de **TOTES** les nostres **interfícies de xarxa**.
+
+![Alt text](../images/nslookup-dns-02-ipconfig-all.png)
+
+A la imatge veiem que tenim 3 **interfícies de xarxa**:
+
+|**Nom**|**Adreaça IP**|**Servidor DNS**|
+|----|----:|----:|
+|**```NAT```**|**```10.0.2.15```**|**```10.0.2.3```**|
+|**```XarxaInterna```**|**```172.128.8.1```**|**```8.8.8.8```**<br>**```8.8.4.4```**|
+|**```HostOnly```**|**```192.168.56.10```**|**```8.8.8.8```**<br>**```8.8.4.4```**|
+
+Un cop que ja sabem quina és la configuració del **servidor de dns** de les nostres **interfícies de xarxa**, ja podem entrar a l'eina **```nslookup```**.
+
+Des de la línia de comandes executem la comanda **```nslookup```**, i ens obrirà l'entorn d'**```nslookup```** per poder realitzar les consultes que vulguem.
+
+![Alt text](../images/nslookup-dns-03-open-nslookup.png)
 
 Com veiem en el nostre cas, la primera informació que ens apareix és:
 
@@ -21,9 +37,19 @@ Default server: UnKnown
 Address: 10.0.2.3
 ```
 
-Això ens indica que en el moment d'iniciar l'aplicació **```nslookup```**, la nostra màquina no té definit cap **servidor de DNS**.
+Això ens indica que en el moment d'iniciar l'aplicació **```nslookup```**, el **servidor de DNS** que té configurat no és un servidor definit com a **servidor de DNS**.
+
+## Canviem el **servidor de DNS** al qual volem fer les consultes.
 
 Per indicar a quin **servidor de DNS** volem fer les consultes, li indiquem de la següent manera:
+
+* **Comanda**
+
+```
+server 8.8.8.8
+```
+
+* **Sortida**
 
 ```
 > server 8.8.8.8
@@ -31,14 +57,25 @@ Default server: dns.google
 Address: 8.8.8.8
 ```
 
-Ara si, l'aplicació **```nslookup```** ens indica que ha trobar el **servidor de DNS** amb **adreça ip** **```8.8.8.8```**.
-I també ens informa de que ha detectat que es tracta del **servidor de DNS** que respon al nom **```dns.google```**.
+**Ara sí!**, l'aplicació **```nslookup```** ens indica que el **servidor de DNS** que li hem assignat, amb **adreça ip** **```8.8.8.8```**, **SÍ** que és un **servidor de DNS** correcte.
+I a més a més, a part també ens informa de que el **servidor de DNS** amb l'**adreça ip** **```8.8.8.8```** que ha trobat respon al nom **```dns.google```**.
 
-![nslookup-canvi-server.png](../images/nslookup-canvi-server.png)
+![Alt text](../images/nslookup-dns-04-canvi-servidor.png)
 
-Per tant, a partir d'ara les respostes que rebrem a les consultes que fem, seran les respostes que ens retorni  **servidor de DNS** **```dns.google```**.
+Per tant, a partir d'ara les respostes que rebrem a les **consultes DNS** que fem, seran les respostes que ens retorni  **servidor de DNS** **```dns.google```** amb l'**adreça ip** **```8.8.8.8```**.
 
-Comencem per la primera consulta.
+
+## Consulta a un **registre de tipus ```A```**
+
+La primera consulta que farem es tracta d'una consulta a un **registre de tipus ```A```**.
+
+> [!IMPORTANT]
+>
+> **Registre de tipus ```A```**
+> 
+> Els **```HOSTS```** (**registres de tipus** **```A```**) que relacionen un nom amb una **adreça IP**.
+
+
 
 **1.** Consulta **```ginebro.cat```**
 
