@@ -65,7 +65,7 @@ I a més a més, també ens informa de que el **servidor de DNS** amb l'**adreç
 
 Per tant, a partir d'ara les respostes que rebrem a les **consultes DNS** que fem, seran les respostes que ens retorni  **servidor de DNS** **```dns.google```** amb l'**adreça ip** **```8.8.8.8```**.
 
-## Consulta a un **registre de tipus ```A```**
+## Com fer una consulta d'un **registre de tipus ```A```**
 
 La primera consulta que farem es tracta d'una consulta a un **registre de tipus ```A```**.
 
@@ -109,7 +109,9 @@ No ens ho ha dit, pero aquesta consulta ha estat de **tipus ```A```**.
 > ***Non-authoritative answer*** (**Resposta no autoritzada**)
 > ### si fos autoritzada es podria arribar a "***robar***" totes les adreces que conté el **DNS**, per després utilitzar-ho amb finalitats diguem ***no massa clares***.
 
-**2.** Consulta de **tipus ```soa```** a **```ginebro.cat```**
+## Com fer una consulta d'un **registre tipus ```soa```**
+
+ a **```ginebro.cat```**
 
 Per consultar al **servidor DNS**, la informació general del domini com pot ser el servidor DNS que el manté, adreça de contacte, etc. Cal canviar el tipus de consulta:
 
@@ -141,7 +143,7 @@ ginebro.cat
 ```
 
 
-
+## Com fer una consulta d'un **registre
 
 
 Per esbrinar quin és el servidor de correu electrònic d’un domini:
@@ -176,7 +178,7 @@ El resultat que retorna va relacionat per la **preferència ```MX```** i el serv
 
 > La **preferència ```MX```** indica a quin servidor s’ha de preguntar primer, en cas que no respongui, el segon, tercer etc. Com més petit és el número, més preferència té **```10```**, **```20```**, **```30```**, ...
 
-#### **2.2.** **Registres de tipus** **```CNAME```**
+## Com fer una consulta d'un **registre de tipus** **```CNAME```**
 
 > [!IMPORTANT]
 >
