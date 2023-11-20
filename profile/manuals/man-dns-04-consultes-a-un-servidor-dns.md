@@ -81,7 +81,7 @@ La primera consulta que farem es tracta d'una consulta a un **registre de tipus 
 > 
 > [Configuració d'un servidor DNS a Win 2020 Server TEORIA - **Registre de tipus ```A```** ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a03u-teoria-i-configuracio-servidor-dns-win2020#creaci%C3%B3-dels-registres-de-tipus-a)
 
-**Consulta** al **registre DNS** **```ginebro.cat```**
+**Consulta** de tipus **```A```** al **registre DNS** del nom **```ginebro.cat```**
 
 Volem coneixer quina és la resposta que ens retorna el servidor **```dns.google (8.8.8.8)```** a la pregunta sobre el servidor **```ginebro.cat```**.
 
@@ -129,7 +129,7 @@ No ens ho ha dit, pero aquesta consulta ha estat de **tipus ```A```**.
 > 
 > [Configuració d'un servidor DNS a Win 2020 Server TEORIA - **Registre de tipus ```SOA```** ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a03u-teoria-i-configuracio-servidor-dns-win2020#24-registres-de-tipus-soa)
 
-**Consulta** al **registre DNS** **```ginebro.cat```**
+**Consulta** de tipus **```SOA```** al **registre DNS** del nom **```ginebro.cat```**
 
 Per consultar al **servidor DNS**, la **informació general del domini** com pot ser el **servidor DNS** que el manté, adreça de contacte, etc. Cal canviar el tipus de consulta:
 
@@ -165,7 +165,6 @@ ginebro.cat
 
 ## Com fer una consulta d'un **registre tipus ```MX```**
 
-
 > [!IMPORTANT]
 >
 > **Registre de tipus ```MX```**
@@ -178,18 +177,22 @@ ginebro.cat
 > 
 > [Configuració d'un servidor DNS a Win 2020 Server TEORIA - **Registre de tipus ```MX```** ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a03u-teoria-i-configuracio-servidor-dns-win2020#creaci%C3%B3-dels-registres-de-tipus-mx)
 
-**Consulta** al **registre DNS** **```ginebro.cat```**
+**Consulta** de tipus **```MX```** al **registre DNS** del nom **```ginebro.cat```**
 
-Per esbrinar quin és el servidor de correu electrònic d’un domini:
+Per esbrinar quin és el servidor de correu electrònic d’un domini **```ginebro.cat```**
 
 > Per modificar el tipus de registre que volem realitzar cal fer servir a comanda **```type=```** i el tipus de **registre DNS**.
 
+
+* **Comanda**
+
 ```
-> set type=mx
->
+set type=mx
 ```
 
-I sembla que no ha passat res. Però ara si fem la consulta ens tornarà la resposta al registre de **tipus ```mx```** del nom **```ginebro.cat```**
+Sembla que no ha passat res. Però ara si fem la consulta ens tornarà la resposta al registre de **tipus ```mx```** del nom **```ginebro.cat```**
+
+* **Sortida**
 
 ```
 > ginebro.cat
@@ -213,24 +216,30 @@ El resultat que retorna va relacionat per la **preferència ```MX```** i el serv
 
 ## Com fer una consulta d'un **registre de tipus** **```CNAME```**
 
+Els **```SOBRENOMS```** o **àlies**, serien els **registres** **```CNAME```** que relacionen un **sobrenom** a un **nom**
+
 > [!IMPORTANT]
 >
 > **Registre de tipus ```CNAME```**
+>
+> Nom canònic equival a un àlies
+>
+> Per més informació pot repassar la teoria a [**Teoria de DNS (Domain Name System) ![icona-pdf-30x30.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-pdf-30x30.png)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0003-uf01-pres0003-teoria-dns.pdf)
+>
+> o bé
 > 
 > [Configuració d'un servidor DNS a Win 2020 Server TEORIA - **Registre de tipus ```CNAME```** ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a03u-teoria-i-configuracio-servidor-dns-win2020#creaci%C3%B3-dels-registres-de-tipus-cname)
 
+**Consulta** de tipus **```CNAME```** al **registre DNS** del nom **```mail.ginebro.cat```**
 
-Els **```SOBRENOMS```** o **àlies**, serien els **registres** **```CNAME```** que relacionen un **sobrenom** a un **nom**
-
-
-**4.** Consulta de **tipus ```CNAME```** a **```mail.ginebro.cat```**
-
-Per comprovar on apunta un sobrenom (**```CNAME```**):
+* **Comanda**
 
 ```
 > set type=cname
 >
 ```
+
+* **Sortida**
 
 ```
 > mail.ginebro.cat
@@ -242,10 +251,21 @@ Non-authoritative answer:
 mail.ginebro.cat 	    canonical name = ghs.google.com
 ```
 
-**5.** Consulta de **tipus ```PTR```**
+## Com fer una consulta d'un **registre tipus ```PTR```**
 
-I en el cas que tinguem una **adreça IP** (**```PTR```**) i es vol saber a qui correspon?
+En el cas que tinguem una **adreça IP** (**```PTR```**) i es vol saber a quin nom correspon.
 
+> [!IMPORTANT]
+>
+> **Registre de tipus ```PTR```**
+>
+> Nom canònic equival a un àlies
+>
+> Per més informació pot repassar la teoria a [**Teoria de DNS (Domain Name System) ![icona-pdf-30x30.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/icona-pdf-30x30.png)**](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/smx-mp07-0003-uf01-pres0003-teoria-dns.pdf)
+>
+> o bé
+> 
+> [Configuració d'un servidor DNS a Win 2020 Server TEORIA - **Registre de tipus ```CNAME```** ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a03u-teoria-i-configuracio-servidor-dns-win2020#creaci%C3%B3-dels-registres-de-tipus-cname)
 
 ```
 > set type=ptr
