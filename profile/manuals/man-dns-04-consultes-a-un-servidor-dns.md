@@ -37,16 +37,16 @@ Default server: UnKnown
 Address: 10.0.2.3
 ```
 
-Això ens indica que en el moment d'iniciar l'aplicació **```nslookup```**, el **servidor de DNS** que té configurat no és un servidor definit com a **servidor de DNS**.
+Això ens indica que en el moment d'iniciar l'aplicació **```nslookup```**, el **servidor de DNS** que té configurat no és un servidor definit com a **servidor de DNS**. Que precisament és el **servidor de DNS** que té l'**interfície de xarxa** amb el nom de **```NAT```**.
 
-## Canviem el **servidor de DNS** al qual volem fer les consultes.
+## Com canviar el **servidor de DNS** al qual volem fer les consultes.
 
 Per indicar a quin **servidor de DNS** volem fer les consultes, li indiquem de la següent manera:
 
 * **Comanda**
 
 ```
-server 8.8.8.8
+server <l'adreça IP del servidor de dns>
 ```
 
 * **Sortida**
@@ -58,12 +58,12 @@ Address: 8.8.8.8
 ```
 
 **Ara sí!**, l'aplicació **```nslookup```** ens indica que el **servidor de DNS** que li hem assignat, amb **adreça ip** **```8.8.8.8```**, **SÍ** que és un **servidor de DNS** correcte.
-I a més a més, a part també ens informa de que el **servidor de DNS** amb l'**adreça ip** **```8.8.8.8```** que ha trobat respon al nom **```dns.google```**.
+
+I a més a més, també ens informa de que el **servidor de DNS** amb l'**adreça ip** **```8.8.8.8```** que ha trobat respon al nom **```dns.google```**. És a dir, que té un **registre de tipus ```PTR```**, el qual associa una adreça IP a un nom.
 
 ![Alt text](../images/nslookup-dns-04-canvi-servidor.png)
 
 Per tant, a partir d'ara les respostes que rebrem a les **consultes DNS** que fem, seran les respostes que ens retorni  **servidor de DNS** **```dns.google```** amb l'**adreça ip** **```8.8.8.8```**.
-
 
 ## Consulta a un **registre de tipus ```A```**
 
