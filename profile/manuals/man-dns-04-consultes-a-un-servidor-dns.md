@@ -85,6 +85,14 @@ La primera consulta que farem es tracta d'una consulta a un **registre de tipus 
 
 Volem coneixer quina és la resposta que ens retorna el servidor **```dns.google (8.8.8.8)```** a la pregunta sobre el servidor **```ginebro.cat```**.
 
+* **Comanda**
+
+```
+ginebro.cat
+```
+
+* **Sortida**
+
 ```
 > ginebro.cat
 Server: dns.google
@@ -127,12 +135,15 @@ Per consultar al **servidor DNS**, la **informació general del domini** com pot
 
 > Per modificar el tipus de registre que volem realitzar cal fer servir a comanda **```type=```** i el tipus de **registre DNS**.
 
+* **Comanda**
+
 ```
-> set type=soa
->
+set type=soa
 ```
 
-Recordem que **```soa```** és el **node superior** d’una zona (**```SOA```**, ***```S```***```tart``` ***```O```***```f``` ***```A```***```uthority```).
+Recordem que **```soa```** és el **node superior** d’una zona (**```SOA```**, ***```Start  Of Authority```).
+
+* **Sortida**
 
 ```
 > ginebro.cat
