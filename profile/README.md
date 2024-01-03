@@ -48,7 +48,7 @@
 
 |Nom|ClickEdu|Tipus|
 |----|----|----|
-|[PrestaShop amb docker compose(https://github.com/SMX-2022-2024/a061-activitat-prestashop-amb-docker-compose-1a-part.git)** *MP07 UF02 A06U - Activitat 6 (1a part)|![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)]|
+|[PrestaShop amb docker compose(https://github.com/SMX-2022-2024/a061-activitat-prestashop-amb-docker-compose-1a-part.git)|MP07 UF02 A06U - Activitat 6 (1a part)|![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)]|
 > 
 <hr>
 </details>
