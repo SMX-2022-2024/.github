@@ -15,9 +15,9 @@
 > [!IMPORTANT]
 > ## Repositoris complementaris a la teoria
 >
-> ### [Definició d'adreçament amb classe ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/man-dns-03-definicio-d-adrecament-amb-classe.md)
+> #### [Definició d'adreçament amb classe ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/man-dns-03-definicio-d-adrecament-amb-classe.md)
 > 
-> ### [Fer consultes a un **Servidor DNS**</font> ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/man-dns-04-consultes-a-un-servidor-dns.md)
+> #### [Fer consultes a un **Servidor DNS** ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/.github/blob/main/profile/manuals/man-dns-04-consultes-a-un-servidor-dns.md)
 >
 ><br>
 >
@@ -30,11 +30,11 @@
 ## *UF01*: Configuració de la xarxa (DNS i DHCP)
 </summary>
 
-> [**A01U** - **Primera activitat amb git** *MP07 UF01 A01U - Activitat 1* ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a01u-primera-activitat-amb-git)
-> ### [***(A02U)* Configuració d'un servidor DHCP a Win 2020 Server** <font size="8">*MP07 UF01 A02U - Activitat 2*</font> ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a02u-configuracio-servidor-dhcp-win2020.git)
-> ### [***(A03U)* Configuració d'un servidor DNS a Win 2020 Server** <font size="8">*MP07 UF01 A03U - Teoria 3*</font> ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a03u-teoria-i-configuracio-servidor-dns-win2020.git)
-> ### [***(A04U)* Creació d'una nova zona de DNS a Win 2020 Server** <font size="8">*MP07 UF01 A04U - Activitat 4*</font> ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a04u-configuracio-servidor-dns-win2020.git)
-> ### [***(A05U)* Configuració per que els servidors es vegin entre ells** <font size="8">*MP07 UF01 A05U - Activitat 5*</font> ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a05u-configuracio-servidors-dns-classe.git)
+> #### [A01U - **Primera activitat amb git** *MP07 UF01 A01U - Activitat 1* ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a01u-primera-activitat-amb-git)
+> #### [A02U **Configuració d'un servidor DHCP a Win 2020 Server** *MP07 UF01 A02U - Activitat 2* ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a02u-configuracio-servidor-dhcp-win2020.git)
+> #### [***(A03U)* Configuració d'un servidor DNS a Win 2020 Server** *MP07 UF01 A03U - Teoria 3* ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a03u-teoria-i-configuracio-servidor-dns-win2020.git)
+> #### [***(A04U)* Creació d'una nova zona de DNS a Win 2020 Server** *MP07 UF01 A04U - Activitat 4* ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a04u-configuracio-servidor-dns-win2020.git)
+> #### [***(A05U)* Configuració per que els servidors es vegin entre ells** *MP07 UF01 A05U - Activitat 5* ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a05u-configuracio-servidors-dns-classe.git)
 > <hr>
 </details>
 
@@ -47,7 +47,7 @@
 </summary>
 
 > 
-> ### [***(A061)* PrestaShop amb docker compose** <font size="8">*MP07 UF02 A06U - Activitat 6 (1a part)*</font> ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a061-activitat-prestashop-amb-docker-compose-1a-part.git)
+> #### [***(A061)* PrestaShop amb docker compose** *MP07 UF02 A06U - Activitat 6 (1a part)* ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a061-activitat-prestashop-amb-docker-compose-1a-part.git)
 > 
 <hr>
 </details>
