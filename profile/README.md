@@ -26,7 +26,15 @@
 
 ## *UF01*: Configuració de la xarxa (DNS i DHCP)
 
-> ### [***(A01U)* Primera activitat amb git** <font size="12">*MP07 UF01 A01U - Activitat 1*</font> ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a01u-primera-activitat-amb-git)
+<summary>
+
+## *UF01*: Configuració de la xarxa (DNS i DHCP)
+
+</summary> 
+<details>
+
+
+> ### [***(A01U)* Primera activitat amb git** <font size="10">*MP07 UF01 A01U - Activitat 1*</font> ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a01u-primera-activitat-amb-git)
 >
 > ### [***(A02U)* Configuració d'un servidor DHCP a Win 2020 Server** *MP07 UF01 A02U - Activitat 2* ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a02u-configuracio-servidor-dhcp-win2020.git)
 >
@@ -37,6 +45,7 @@
 > ### [***(A05U)* Configuració per que els servidors es vegin entre ells** *MP07 UF01 A05U - Activitat 5* ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a05u-configuracio-servidors-dns-classe.git)
 > 
 <hr>
+</details>
 
 ## *UF02*: **Correu electrònic i transmissió d’arxius**
 
