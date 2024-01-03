@@ -30,7 +30,7 @@
 ## *UF01*: Configuració de la xarxa (DNS i DHCP)
 </summary>
 
-|***MP07 UF01 A01U* - Activitat 1**|[#### &nbsp;&nbsp;&nbsp;&nbsp; A01U - Primera activitat amb git ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a01u-primera-activitat-amb-git)|
+|***MP07 UF01 A01U* - Activitat 1**|#### [A01U - Primera activitat amb git ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a01u-primera-activitat-amb-git)|
 |----|----|
 
 > #### [&nbsp;&nbsp;&nbsp;&nbsp; A02U Configuració d'un servidor DHCP a Win 2020 Server MP07 UF01 A02U - Activitat 2 ![github-logo-white-30x38.png](https://github.com/SMX-2022-2024/.github/blob/main/profile//images/github-logo-white-30x38.png)](https://github.com/SMX-2022-2024/a02u-configuracio-servidor-dhcp-win2020.git)
